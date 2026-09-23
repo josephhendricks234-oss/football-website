@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>My Football Journey</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav>
+        <div class="logo">MY FOOTBALL</div>
+
+        <div class="nav-links">
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#profile">Stats</a>
+    <a href="#contact">Contact</a>
+</div>
+    </nav>
+
+
+    <!-- Hero -->
+    <section class="hero" id="home">
+
+        <div class="hero-content">
+
+            <p class="small-text">FOOTBALLER • #10</p>
+
+            <h1>
+                BECOME THE<br>
+                PLAYER YOU<br>
+                KNOW YOU CAN BE.
+            </h1>
+
+            <p class="description">
+                My journey to becoming a professional footballer.
+            </p>
+
+            <button>MY JOURNEY</button>
+
+        </div>
+
+    </section>
+
+
+    <!-- About -->
+    <section class="about" id="about">
+
+        <div class="about-image">
+            <div class="image-placeholder">
+                YOUR PHOTO
+            </div>
+        </div>
+
+        <div class="about-content">
+
+            <p class="section-label">ABOUT ME</p>
+
+            <h2>
+                MORE THAN<br>
+                JUST A PLAYER.
+            </h2>
+
+            <p>
+                I am an attacking midfielder focused on creativity,
+                technique and making things happen on the pitch.
+            </p>
+
+            <p>
+                My goal is to develop every part of my game and
+                eventually play professional football.
+            </p>
+
+            <a href="#" class="learn-more">MORE ABOUT ME →</a>
+
+        </div>
+
+    </section>
+
+
+    <!-- Player Profile -->
+    <section class="profile" id="profile">
+
+        <div class="profile-heading">
+
+            <p class="section-label">PLAYER PROFILE</p>
+
+            <h2>THE PLAYER</h2>
+
+        </div>
+
+
+        <div class="stats-grid">
+
+            <div class="stat">
+                <span>POSITION</span>
+                <strong>#10</strong>
+                <p>Attacking Midfielder</p>
+            </div>
+
+            <div class="stat">
+                <span>FOOT</span>
+                <strong>BOTH</strong>
+                <p>Left & Right</p>
+            </div>
+
+            <div class="stat">
+                <span>STYLE</span>
+                <strong>CREATIVE</strong>
+                <p>Playmaker</p>
+            </div>
+
+            <div class="stat">
+                <span>GOAL</span>
+                <strong>PRO</strong>
+                <p>Professional Football</p>
+            </div>
+
+        </div>
+<!-- Player Attributes -->
+<section class="attributes">
+
+    <div class="attributes-heading">
+
+        <p class="section-label">MY GAME</p>
+
+        <h2>PLAYER<br>ATTRIBUTES</h2>
+
+    </div>
+
+
+    <div class="attributes-list">
+
+        <div class="attribute">
+            <div class="attribute-top">
+                <span>DRIBBLING</span>
+                <span>90</span>
+            </div>
+
+            <div class="bar">
+                <div class="bar-fill" style="width: 90%;"></div>
+            </div>
+        </div>
+
+
+        <div class="attribute">
+            <div class="attribute-top">
+                <span>PASSING</span>
+                <span>88</span>
+            </div>
+
+            <div class="bar">
+                <div class="bar-fill" style="width: 88%;"></div>
+            </div>
+        </div>
+
+
+        <div class="attribute">
+            <div class="attribute-top">
+                <span>VISION</span>
+                <span>92</span>
+            </div>
+
+            <div class="bar">
+                <div class="bar-fill" style="width: 92%;"></div>
+            </div>
+        </div>
+
+
+        <div class="attribute">
+            <div class="attribute-top">
+                <span>SHOOTING</span>
+                <span>85</span>
+            </div>
+
+            <div class="bar">
+                <div class="bar-fill" style="width: 85%;"></div>
+            </div>
+        </div>
+
+
+        <div class="attribute">
+            <div class="attribute-top">
+                <span>PACE</span>
+                <span>87</span>
+            </div>
+
+            <div class="bar">
+                <div class="bar-fill" style="width: 87%;"></div>
+            </div>
+        </div>
+
+
+        <div class="attribute">
+            <div class="attribute-top">
+                <span>TECHNIQUE</span>
+                <span>91</span>
+            </div>
+
+            <div class="bar">
+                <div class="bar-fill" style="width: 91%;"></div>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+    </section>
+    <!-- Highlights -->
+<section class="highlights">
+<!-- Contact -->
+<section class="contact" id="contact">
+
+    <div class="contact-content">
+
+        <p class="section-label">GET IN TOUCH</p>
+
+        <h2>LET'S CONNECT.</h2>
+
+        <p>
+            For football opportunities, collaborations or
+            just to get in touch, you can contact me here.
+        </p>
+
+        <a href="mailto:your@email.com" class="contact-button">
+            EMAIL ME →
+        </a>
+
+    </div>
+
+</section>
+    <div class="highlights-heading">
+
+        <p class="section-label">ON THE PITCH</p>
+
+        <h2>HIGHLIGHTS</h2>
+
+        <p class="highlights-description">
+            A collection of moments from my football journey.
+        </p>
+
+    </div>
+
+
+    <div class="video-grid">
+
+        <div class="video-card">
+            <div class="video-placeholder">
+                <span>▶</span>
+            </div>
+
+            <h3>SKILLS & DRIBBLING</h3>
+            <p>1v1 • Ball Control • Creativity</p>
+        </div>
+
+
+        <div class="video-card">
+            <div class="video-placeholder">
+                <span>▶</span>
+            </div>
+
+            <h3>MATCH HIGHLIGHTS</h3>
+            <p>Goals • Assists • Chances Created</p>
+        </div>
+
+
+        <div class="video-card">
+            <div class="video-placeholder">
+                <span>▶</span>
+            </div>
+
+            <h3>TRAINING</h3>
+            <p>Technical • Physical • Development</p>
+        </div>
+
+    </div>
+
+</section>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
